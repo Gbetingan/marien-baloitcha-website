@@ -1,6 +1,6 @@
 'use client';
 
-// @ts-ignore: Suppress TypeScript sub-path resolution error during Hostinger build
+// @ts-ignore
 import { NextStudio } from 'next-sanity/studio';
 import config from '../../../sanity.config';
 
